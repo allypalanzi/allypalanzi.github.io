@@ -5,11 +5,12 @@ $font-main: 'Source Sans Pro', sans-serif;
 $color-pink-1: #7a2848;
 $color-pink-2: #882e50;
 $color-pink-3: #9f2e59;
+$color-type: #333;
 $gray: #ccc;
 
 $color-main: $color-pink-2;
 $color-active: $color-pink-3;
-$color-hover: $gray;
+$color-hover: darken($color-pink-1, 5%);
 
 // Layout
 

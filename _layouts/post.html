@@ -2,9 +2,8 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
-
-<div class="l__wrap">
+<div class="m-post l__wrap">
+  {{ page.categories }}
+  <p class="meta">{{ page.date | date_to_string }}</p>
   {{ content }}
 </div>

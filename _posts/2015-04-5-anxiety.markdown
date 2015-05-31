@@ -2,7 +2,8 @@
 layout: post
 title:  "Making it with anxiety"
 date:   2015-04-5
-categories:
+categories: life
+desc:  "I have pretty much always been anxious. Meeting new people is hard; I rarely stray outside of my friend group; I’m constantly worried in large groups of people; overly nervous for the first day of anything; hell — even just going out to the grocery store can be a struggle sometimes."
 ---
 
 I have pretty much always been anxious. Meeting new people is hard; I rarely stray outside of my friend group; I’m constantly worried in large groups of people; overly nervous for the first day of anything; hell — even just going out to the grocery store can be a struggle sometimes.
@@ -17,5 +18,5 @@ Life with anxiety certainly isn’t easy, but I know I can’t let it control me
 
 Lately, the only thing I’ve found that doesn’t turn me into a total anxious mess and is helping me reach my goals is teaching. Starting to teach topics that I have spent the last 5 years of my life immersed in is incredibly rewarding. I know these things inside and out and I could talk to anyone about them for hours. I’ve also been very lucky to have great environments to practice in. My first few workshops have been at women focused events and I’m so glad to have found communities that are so supportive that I don’t even care if I am skipping over my words.
 
-I love being a designer, developer, and pushing gender equality in tech forward. Every single day is a struggle, but I can do this because I am trying my fucking hardest.
+I love being a designer, developer, and pushing gender equality in tech forward. Every single day is a struggle, but I can do this because **I am trying my fucking hardest**.
 

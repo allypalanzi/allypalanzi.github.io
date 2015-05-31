@@ -1,0 +1,27 @@
+.m-post-list {
+  &__date {
+    text-transform: uppercase;
+    font-size: 10px;
+    color: $color-pink-1;
+  }
+
+  &__title {
+    font-size: 35px;
+  }
+
+  &__desc {
+    font-style: italic;
+    color: lighten($color-type, 10%);
+    font-size: 18px;
+  }
+
+  a {
+    padding: 20px;
+    display: block;
+    transition: background .2s;
+    &:hover {
+      transition: background .2s;
+      background: #F9F8F8;
+    }
+  }
+}

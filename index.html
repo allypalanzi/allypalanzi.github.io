@@ -3,10 +3,16 @@ layout: default
 title: my life as a developer
 ---
 
-<div class="l__wrap">
-  <ul class="posts">
+<div>
+  <ul class="m-post-list">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <a href="{{ post.url }}">
+        <li class="m-post-list__posts l__wrap">
+          <p class="m-post-list__date">{{ post.date | date_to_string }}</p>
+          <h2 class="m-post-list__title">{{ post.title }}</h2>
+          <p class="m-post-list__desc">{{ post.desc }}</p>
+        </li>
+      </a>
     {% endfor %}
   </ul>
 </div>
