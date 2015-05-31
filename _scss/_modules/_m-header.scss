@@ -1,7 +1,7 @@
 .m-header {
   background: linear-gradient(to right,  #7a2848 0%,#882e50 50%,#9f2e59 100%);
   color: #fff;
-  padding: 100px 0;
+  padding-bottom: 100px;
   h1 {
     font-size: 70px;
     font-weight: 900;
@@ -19,6 +19,22 @@
     }
   }
   @media(max-width: 600px) {
-    padding: 50px 0;
+  padding-bottom: 50px;
+  }
+  &__nav {
+    padding: 20px 0 80px 20px;
+    a {
+      border-bottom: 1px solid;
+      border-color: transparent;
+      color: #fff;
+      opacity: .7;
+      padding: 10px;
+      transition: border .1s;
+      &:hover {
+        border-color: #fff;
+        opacity: 1;
+        transition: border-color .2s;
+      }
+    }
   }
 }
