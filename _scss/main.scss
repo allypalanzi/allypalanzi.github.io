@@ -1,6 +1,10 @@
-@import "reset";
-@import "syntax";
+@import "_vars";
+@import "_type";
+@import "_layout";
+
+@import "_base/_!manifest";
+@import "_modules/_!manifest";
 
 body {
-    background: blue;
+  font-family: $font-main;
 }
