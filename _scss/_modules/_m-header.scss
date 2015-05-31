@@ -1,7 +1,24 @@
 .m-header {
   background: linear-gradient(to right,  #7a2848 0%,#882e50 50%,#9f2e59 100%);
   color: #fff;
-  font-size: 50px;
-  font-weight: 900;
   padding: 100px 0;
+  h1 {
+    font-size: 70px;
+    font-weight: 900;
+    @media(max-width: 600px) {
+      font-size: 40px;
+    }
+  }
+  p {
+    font-style: italic;
+    font-weight: 300;
+    margin-top: 10px;
+    font-size: 25px;
+    @media(max-width: 600px) {
+      font-size: 20px;
+    }
+  }
+  @media(max-width: 600px) {
+    padding: 50px 0;
+  }
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making it with anxiety"
-date:   2015-04-5
+date:   2015-04-05
 categories: life
 desc:  "I have pretty much always been anxious. Meeting new people is hard; I rarely stray outside of my friend group; I’m constantly worried in large groups of people; overly nervous for the first day of anything; hell — even just going out to the grocery store can be a struggle sometimes."
 ---

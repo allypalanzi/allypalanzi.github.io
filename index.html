@@ -1,14 +1,15 @@
 ---
 layout: default
 title: my life as a developer
+subhead: '&raquo; a blog about code, design, &amp; life'
 ---
 
 <div>
   <ul class="m-post-list">
     {% for post in site.posts %}
       <a href="{{ post.url }}">
-        <li class="m-post-list__posts l__wrap">
-          <p class="m-post-list__date">{{ post.date | date_to_string }}</p>
+        <li class="m-post-list__post l__wrap">
+          <p class="m-post-list__date">{{ post.date | date: "%B %-d, %Y" }}</p>
           <h2 class="m-post-list__title">{{ post.title }}</h2>
           <p class="m-post-list__desc">{{ post.desc }}</p>
         </li>
