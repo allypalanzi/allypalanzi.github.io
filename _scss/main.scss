@@ -1,10 +1,11 @@
+@import "_base/_!manifest";
 @import "_vars";
 @import "_type";
 @import "_layout";
 
-@import "_base/_!manifest";
 @import "_modules/_!manifest";
 
 body {
   font-family: $font-main;
 }
+
