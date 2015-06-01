@@ -13,6 +13,7 @@ hi. this is a work in progress.
 - [ ] image minification
 - [ ] css source maps
 - [ ] add social meta-data shit
+- [ ] add rss
 
 ### Content Things
 - [ ] add speaking / classes page
