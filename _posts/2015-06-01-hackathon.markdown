@@ -3,7 +3,6 @@ layout: post
 title:  "Organizing a hackathon"
 date:   2015-06-01
 categories: event
-desc:  "Planning a hackathon is fun!"
 ---
 
 This past weekend was the first ever <a target="_blank" href="http://dcfemtech.github.io/hackforgood.html">DCFemTech Hack for Good</a>. I had the pleasure of working with <a href="http://twitter.com/heycatrobinson" target="_blank">Cat Robinson</a>, <a href="http://twitter.com/bethsoderberg" target="_blank">Beth Soderberg</a>, and <a href="http://twitter.com/mad_typist" target="_blank">Jessie Link</a> to make this happen. It was a really great experience and I think it went <a href="https://twitter.com/search?q=%23hackforgooddc&src=typd" target="_blank">pretty well</a>.
