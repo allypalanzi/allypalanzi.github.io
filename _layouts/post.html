@@ -3,7 +3,9 @@ layout: default
 ---
 
 <div class="m-post l__wrap">
-  <p class="m-post__date">Posted on: {{ page.date | date: "%B %-d, %Y" }}</p>
+  {% if page.date != false %}
+    <p class="m-post__date">Posted on: {{ page.date | date: "%B %-d, %Y" }}</p>
+  {% endif %}
   {{ content }}
 </div>
 
