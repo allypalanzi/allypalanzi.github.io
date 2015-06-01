@@ -9,3 +9,12 @@ body {
   font-family: $font-main;
 }
 
+iframe {
+  margin: 20px auto !important; // _sigh_ to overwrite embeds inline styles
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+

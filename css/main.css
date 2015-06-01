@@ -242,6 +242,13 @@ h1 {
 h2 {
   font-size: 40px; }
 
+h3 {
+  border-bottom: 1px solid #ccc;
+  color: #882e50;
+  font-size: 30px;
+  margin: 50px 0 20px 0;
+  padding-bottom: 10px; }
+
 p {
   font-size: 22px;
   line-height: 1.4;
@@ -252,6 +259,11 @@ em {
 
 strong {
   font-weight: 700; }
+
+figcaption {
+  color: #4d4d4d;
+  font-size: 12px;
+  font-style: italic; }
 
 .l__wrap {
   margin: 0 auto;
@@ -264,7 +276,8 @@ strong {
   padding-bottom: 100px; }
   .m-header h1 {
     font-size: 70px;
-    font-weight: 900; }
+    font-weight: 900;
+    text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.3); }
     @media (max-width: 600px) {
       .m-header h1 {
         font-size: 40px; } }
@@ -313,6 +326,23 @@ strong {
 
 .m-post {
   padding: 50px 10px; }
+  .m-post li {
+    list-style: disc inside;
+    margin: 10px 0;
+    font-size: 20px; }
+  .m-post__date {
+    font-style: italic;
+    color: #4d4d4d;
+    font-size: 15px; }
+  .m-post img {
+    margin: 20px 0 0 0; }
 
 body {
   font-family: 'Source Sans Pro', sans-serif; }
+
+iframe {
+  margin: 20px auto !important;
+  width: 100%; }
+
+img {
+  width: 100%; }

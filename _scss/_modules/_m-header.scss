@@ -5,6 +5,7 @@
   h1 {
     font-size: 70px;
     font-weight: 900;
+    text-shadow: 1px 1px 8px rgba(0,0,0,.3);
     @media(max-width: 600px) {
       font-size: 40px;
     }
