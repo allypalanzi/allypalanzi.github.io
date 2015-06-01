@@ -6,7 +6,7 @@ categories: event
 desc:  "Planning a hackathon is fun!"
 ---
 
-This past weekend was the first ever <a target="_blank" href="http://dcfemtech.github.io/hackforgood.html">DCFemTech Hack for Good</a>. I had the pleasure of working with <a href="http://twitter.com/heycatrobinson" target="_blank">Cat Robinson</a>, <a href="http://twitter.com/bethsoderberg" target="_blank">Beth Soderberg</a>, and <a href="http://twitter.com/mad_typist" target="_blank">Jessie Link</a> to make this happen. It was a really great experience, and I think it went pretty well.
+This past weekend was the first ever <a target="_blank" href="http://dcfemtech.github.io/hackforgood.html">DCFemTech Hack for Good</a>. I had the pleasure of working with <a href="http://twitter.com/heycatrobinson" target="_blank">Cat Robinson</a>, <a href="http://twitter.com/bethsoderberg" target="_blank">Beth Soderberg</a>, and <a href="http://twitter.com/mad_typist" target="_blank">Jessie Link</a> to make this happen. It was a really great experience and I think it went pretty well.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I have been to *a lot* of hackathons.&#10;&#10;<a href="https://twitter.com/mylifeasalllly">@mylifeasalllly</a>, <a href="https://twitter.com/bethsoderberg">@bethsoderberg</a>, and <a href="https://twitter.com/HeyCatRobinson">@HeyCatRobinson</a> organized the best one I&#39;ve been to</p>&mdash; Shannon Turner (@svt827) <a href="https://twitter.com/svt827/status/605111800217116672">May 31, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -15,7 +15,7 @@ I learned a lot, so here are some things to think about when you're planning a h
 
 ### Find awesome people to work with
 
-Part of why I believe this went so well is because we had a really engaged, hardworking (while still laid-back) team. We were able to divide and conquer, making the whole experience of planning a hackathon a lot less overwhelming. Jessie was in charge of obtaining the space and settling building logistics; Beth met with non-profits and organized projects for the attendees to work on; Cat set up the registration, obtain sponsors, kept us super organized, and handled lots of miscellaneous tasks; I mostly focused on finding sponsors, tweet-storming, and creating a landing page.
+Part of why I believe this went so well is because we had a really engaged, hardworking (while still laid-back) team. We were able to divide and conquer, making the whole experience of planning a hackathon a lot less overwhelming. Jessie was in charge of obtaining the space and settling building logistics; Beth met with non-profits and organized projects for the attendees to work on; Cat set up the registration, obtained sponsors, kept us super organized, and handled lots of miscellaneous tasks; I mostly focused on finding sponsors, tweet-storming, and creating a landing page.
 
 ### Have some goals
 
