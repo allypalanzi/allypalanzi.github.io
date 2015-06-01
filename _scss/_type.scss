@@ -5,14 +5,11 @@ a:visited {
   color: $color-main;
   text-decoration: none;
   transition: all .1s;
-  border-bottom: 1px solid;
-  border-color: transparent;;
 }
 
 a:hover {
   color: $color-hover;
   transition: all .1s;
-  border-color: $color-hover;
 }
 
 h1 {

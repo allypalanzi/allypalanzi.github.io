@@ -230,14 +230,11 @@ table {
 a, a:visited {
   color: #9f2e59;
   text-decoration: none;
-  transition: all 0.1s;
-  border-bottom: 1px solid;
-  border-color: transparent; }
+  transition: all 0.1s; }
 
 a:hover {
   color: #c24678;
-  transition: all 0.1s;
-  border-color: #c24678; }
+  transition: all 0.1s; }
 
 h1 {
   font-size: 50px; }
@@ -347,6 +344,11 @@ figcaption {
     font-size: 15px; }
   .m-post img {
     margin: 20px 0 0 0; }
+  .m-post a {
+    border-bottom: 1px solid;
+    border-color: transparent; }
+    .m-post a:hover {
+      border-color: #c24678; }
 
 body {
   font-family: 'Source Sans Pro', sans-serif; }
