@@ -5,13 +5,17 @@ $font-main: 'Source Sans Pro', sans-serif;
 $color-pink-1: #7a2848;
 $color-pink-2: #882e50;
 $color-pink-3: #9f2e59;
+
 $color-type: #333;
 $color-gray: #ccc;
 
-$color-main: $color-pink-2;
+$color-main: $color-pink-3;
 $color-active: $color-pink-3;
-$color-hover: darken($color-pink-1, 5%);
+$color-hover: lighten($color-pink-1, 20%);
 
 // Layout
-
 $content-width: 800px;
+
+// Break Points
+
+$bp-sm: 600px;

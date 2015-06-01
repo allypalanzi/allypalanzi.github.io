@@ -228,13 +228,16 @@ table {
   color: #009999; }
 
 a, a:visited {
-  color: #882e50;
+  color: #9f2e59;
   text-decoration: none;
-  transition: color 0.1s; }
+  transition: all 0.1s;
+  border-bottom: 1px solid;
+  border-color: transparent; }
 
 a:hover {
-  color: #67223d;
-  transition: color 0.1s; }
+  color: #c24678;
+  transition: all 0.1s;
+  border-color: #c24678; }
 
 h1 {
   font-size: 50px; }
@@ -244,12 +247,12 @@ h2 {
 
 h3 {
   border-bottom: 1px solid #ccc;
-  color: #882e50;
+  color: #9f2e59;
   font-size: 30px;
   margin: 50px 0 20px 0;
   padding-bottom: 10px; }
 
-p {
+p, li {
   font-size: 22px;
   line-height: 1.4;
   margin: 15px 0; }
@@ -267,8 +270,8 @@ figcaption {
 
 .l__wrap {
   margin: 0 auto;
-  padding: 0 10px;
-  max-width: 800px; }
+  max-width: 800px;
+  padding: 0 20px; }
 
 .m-header {
   background: linear-gradient(to right, #7a2848 0%, #882e50 50%, #9f2e59 100%);
@@ -305,6 +308,15 @@ figcaption {
         border-color: #fff;
         opacity: 1;
         transition: border-color 0.2s; }
+    @media (max-width: 600px) {
+      .m-header__nav {
+        text-align: center; } }
+
+.m-footer {
+  padding: 50px 0;
+  text-align: center; }
+  .m-footer p {
+    font-size: 12px; }
 
 .m-post-list__date {
   text-transform: uppercase;
@@ -317,7 +329,7 @@ figcaption {
   color: #4d4d4d;
   font-size: 16px; }
 .m-post-list a {
-  padding: 20px;
+  padding: 20px 0;
   display: block;
   transition: background 0.2s; }
   .m-post-list a:hover {
@@ -328,8 +340,7 @@ figcaption {
   padding: 50px 10px; }
   .m-post li {
     list-style: disc inside;
-    margin: 10px 0;
-    font-size: 20px; }
+    margin: 10px 0; }
   .m-post__date {
     font-style: italic;
     color: #4d4d4d;
