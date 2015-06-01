@@ -11,4 +11,4 @@ hi. this is a work in progress.
 - [ ] favicon
 - [ ] make sure auto prefixer is actually working
 - [x] blog.allypalanzi.com
-- [ ] analytics
+- [x] analytics
