@@ -6,7 +6,7 @@ categories: event
 desc:  "Planning a hackathon is fun!"
 ---
 
-This past weekend was the first ever <a target="_blank" href="http://dcfemtech.github.io/hackforgood.html">DCFemTech Hack for Good</a>. I had the pleasure of working with <a href="http://twitter.com/heycatrobinson" target="_blank">Cat Robinson</a>, <a href="http://twitter.com/bethsoderberg" target="_blank">Beth Soderberg</a>, and <a href="http://twitter.com/mad_typist" target="_blank">Jessie Link</a> to make this happen. It was a really great experience and I think it went pretty well.
+This past weekend was the first ever <a target="_blank" href="http://dcfemtech.github.io/hackforgood.html">DCFemTech Hack for Good</a>. I had the pleasure of working with <a href="http://twitter.com/heycatrobinson" target="_blank">Cat Robinson</a>, <a href="http://twitter.com/bethsoderberg" target="_blank">Beth Soderberg</a>, and <a href="http://twitter.com/mad_typist" target="_blank">Jessie Link</a> to make this happen. It was a really great experience and I think it went <a href="https://twitter.com/search?q=%23hackforgooddc&src=typd" target="_blank">pretty well</a>.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I have been to *a lot* of hackathons.&#10;&#10;<a href="https://twitter.com/mylifeasalllly">@mylifeasalllly</a>, <a href="https://twitter.com/bethsoderberg">@bethsoderberg</a>, and <a href="https://twitter.com/HeyCatRobinson">@HeyCatRobinson</a> organized the best one I&#39;ve been to</p>&mdash; Shannon Turner (@svt827) <a href="https://twitter.com/svt827/status/605111800217116672">May 31, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
