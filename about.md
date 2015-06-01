@@ -1,6 +1,7 @@
 ---
 layout: post
 title: about me
+comments: false
 ---
 
 ## I'm Ally Palanzi.
