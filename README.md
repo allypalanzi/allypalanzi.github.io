@@ -1,10 +1,10 @@
 # allypalanzi.github.io
 hi. this is a work in progress.
 
-#todo
+# todo
 - [ ] write better read me lol
 
-## Code things
+### Code things
 - [x] minify shit
 - [ ] 404 page
 - [ ] make sure auto prefixer is actually working whoops
@@ -14,11 +14,11 @@ hi. this is a work in progress.
 - [ ] css source maps
 - [ ] add social meta-data shit
 
-## Content Things
+### Content Things
 - [ ] add speaking / classes page
 - [ ] write a better about me
 
-## Design Things
+### Design Things
 - [ ] make it less ugly
 - [ ] better type, from typekit
 - [ ] design study
