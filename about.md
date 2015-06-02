@@ -7,7 +7,7 @@ date: false
 
 ## I'm Ally Palanzi.
 
-Currently, I'm a front-end engineer with Vox Media. I have a passion for code and an eye for design. I'm obsessed with JavaScript, Sass, architecting systems, and learning all things development.
+I'm a front-end engineer at Vox Media where I help build internet websites. I tweet <a href="http://www.twitter.com/mylifeasalllly" target="_blank">a lot</a>, so maybe find me there. I am not good at writing bios, but I am pretty okay at writing code. Currently: JavaScript, Sass, Ruby/Rails and learning all of the things.
 
-This blog is very much a work in progress, I'm new to writing and so I'm building it as I go. Please let me know if you see any [issues](http://www.github.com/allypalanzi/allypalanzi.github.io/issues).
+This blog is a work in progress. I'm building it as I go! Please let me know if you see any [issues](http://www.github.com/allypalanzi/allypalanzi.github.io/issues).
 
