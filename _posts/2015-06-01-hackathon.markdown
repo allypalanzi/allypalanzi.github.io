@@ -66,7 +66,7 @@ Jessie came up with the *awesome* idea of donating the leftover food and found t
 
 **Sponsors**
 
-Sponsors are hard. Start looking for these early. I'm still figuring out th best ways to handle sponsorship, but I think the best way to find them is to just cold email places. Restaurants will sometimes donate food, so definitely reach out to them. Bagel and coffee shops will often offer up their leftovers at the end of the day, so you can always consider that. And of course lots of tech organizations are usually willing to sponsor.
+Sponsors are hard. Start looking for these early. I'm still figuring out the best ways to handle sponsorship, but I think the best way to find them is to just cold email places. Restaurants will sometimes donate food, so definitely reach out to them. Bagel and coffee shops will often offer up their leftovers at the end of the day, so you can always consider that. And of course lots of tech organizations are usually willing to sponsor.
 
 ![Living Social's sweet office](/assets/images/hackathon/dcft3.jpg)
 <figcaption>Did I mention Living Social has an awesome office?</figcaption>
