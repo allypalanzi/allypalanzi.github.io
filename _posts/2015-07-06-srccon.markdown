@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "What makes a good conference / event?"
+date:   2015-07-06
+categories: events planning
+---
+
+I first started going to tech events when I was in college. I loved them. Being surrounded by people with the same interests as me, people who were excited, people who shared their passions, people who welcomed me even though I was new. It was so inspiring. It’s how I realized that I wanted to be a front-end developer. It’s how I met lots of friends. It’s how I found my job.
+
+Going to events has become crucial in my development as a programmer, and I’ve been to a lot. I’ve even planned [some](/hackathon). Over the years, I’ve figured out what makes and breaks a conference/event experience for me. I recently went to [SRCCON](http://srccon.org/) (a tech / journalism conference) in Minneapolis, for the second year in a row, and it was absolutely amazing &mdash; even better than the first, even though last year's was just about perfect.
+
+Here are some of the things they did absolutely right. Conference and event planners, take note:
+
+### Inexpensive tickets
+It’s always really frustrating when looking at awesome conferences and seeing that tickets are super expensive. Sure, some companies will pay for you to go, but not always. On top of traveling there, hotels, meals, etc, conferences cost SO much money. Not everyone can afford them, and in order to get a diverse group, lowering the price definitely helps.
+
+### Inexpensive location
+Again, it’s super great when conferences are held in fancy places &mdash; but it's also important to consider the accessibilty of an affordable place.
+
+### Scholarships
+This one is pretty straight forward: people could apply for scholarships to attend the conference.
+
+### Childcare
+I’ve seen this at a lot of events lately, and I think it’s awesome. Lots of parents can't go to conferences because they can’t just leave their children; SRCCON offered free childcare for attendees.
+
+### Collaborative workshops, not talks
+The best parts of conferences are the conversations you have with people in the halls, at lunch, etc. Sure, getting talked at for hours and hours all day is great (not really) but everyone who attends conferences has valuable things to contribute. SRCCON has a workshop format for each session that is run by one or two facilitators to help guide the conversation.
+
+### 30 minute breaks between sessions
+As to the last point, the best part of conferences are the conversations you have in between, SRCCON gave really nice breaks between sessions so you could interact with others, ignore others, get some fresh air, eat snacks, and not just sit in a room for eight hours.
+
+### Live transcription
+You could follow along even if you weren’t there with people live transcribing the event. There are also [transcripts](http://srccon.org/transcription/) for afterwards, which is pretty awesome.
+
+### Night time activities that DO NOT INVOLVE DRINKING!
+This is really not that difficult. Most conferences have crazy blow out parties which is probably why the tickets are so expensive. At SRCCON, they kept the venue late and attendees were able to play board games, hack together, pitch and listen to lightening talks, and just hangout. It was way better than any conference party.
+
+
+
+<br><br>
+
+I could probably talk for days about how well organized and thoughtful SRCCON was. You could really tell the organizers thought through every possibliliy. I really hope more events will begin to take note! Read more about their process from the [SRCCON organizers here](http://srccon.org/docs/).
+
+
+
+
+
+
+
+
