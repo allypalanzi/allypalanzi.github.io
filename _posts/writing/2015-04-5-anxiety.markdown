@@ -3,6 +3,7 @@ layout: post
 title:  "Making it with anxiety"
 subtitle: "Every day is a struggle"
 date:   2015-04-05
+categories: writing
 ---
 
 I have pretty much always been anxious. Meeting new people is hard; I rarely stray outside of my friend group; I’m constantly worried in large groups of people; overly nervous for the first day of anything; hell — even just going out to the grocery store can be a struggle sometimes.

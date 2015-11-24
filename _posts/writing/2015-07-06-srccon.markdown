@@ -2,6 +2,7 @@
 layout: post
 title:  "What makes a good conference / event?"
 date:   2015-07-06
+categories: writing
 ---
 
 I first started going to tech events when I was in college. I loved them. Being surrounded by people with the same interests as me, people who were excited, people who shared their passions, people who welcomed me even though I was new. It was so inspiring. It’s how I realized that I wanted to be a front-end developer. It’s how I met lots of friends. It’s how I found my job.
