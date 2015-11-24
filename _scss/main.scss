@@ -1,11 +1,12 @@
-@import "_base/_!manifest";
-@import "_vars";
-@import "_type";
-@import "_layout";
+@import '_base/!manifest';
+@import 'vars';
+@import 'type';
+@import 'layout';
 
-@import "_modules/_!manifest";
+@import '_modules/!manifest';
 
 body {
+  color: #333;
   font-family: $font-main;
 }
 

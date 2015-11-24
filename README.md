@@ -4,6 +4,11 @@ hi. this is a work in progress.
 # todo
 - [ ] write better read me lol
 
+### Post Ideas
+- [ ] don't speak in code // sassconf write up
+- [ ] intermediate javascript resources
+- [ ] how to be a mentor
+
 ### Code things
 - [x] minify shit
 - [ ] 404 page
@@ -16,11 +21,11 @@ hi. this is a work in progress.
 - [ ] add rss
 
 ### Content Things
-- [ ] add speaking / classes page
+- [x] add speaking / classes page
 - [ ] write a better about me
 
 ### Design Things
 - [ ] make it less ugly
-- [ ] better type, from typekit
-- [ ] design study
+- [ ] better type
+- [ ] better design
 - [ ] favicon

@@ -1,0 +1,10 @@
+---
+title: "Communicate 2025"
+date: 2015-03-04
+cats:
+  - event
+  - organizing
+link: https://femsplain.com/beginners-web-development-our-first-workshop/
+---
+
+On Friday, August 7, 2015, Vox Product, Hyper Island and Spotify Design hosted Communicate 2025, an event about the future. 36 students from the Kips Bay Boys and Girls Club and 36 designers from the greater NYC tech scene spent a day brainstorming and inventing.

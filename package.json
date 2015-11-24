@@ -1,5 +1,5 @@
 {
-  "name": "Ally's blog",
+  "name": "blog",
   "version": "0.0.0",
   "description": "Personal blog for Ally Palanzi",
   "main": "gulpfile.js",

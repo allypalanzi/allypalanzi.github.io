@@ -1,0 +1,10 @@
+---
+title: "Don't Speak in Code: Clear + Kind Communication | SassConf"
+date: 2015-11-12
+cats:
+  - conference
+  - discussion
+link: http://sassconf.com
+---
+
+In a world where we are so used to interacting with other humans from behind our screens, sometimes it's important to take a step back and realize that we are communicating with human beings who have feelings. We often dismiss this from time to time when tweeting, submitting issues to repositories, communicating via messages, and submitting pull requests. Though it's not always intentional, as members of a community or workplace it is our responsibility to uphold a certain standard of empathy and understanding. Creating a welcoming and inclusive environment is important in order to foster diversity of people and skill sets which in turn creates stronger products and communities.

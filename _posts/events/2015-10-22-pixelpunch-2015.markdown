@@ -1,0 +1,10 @@
+---
+title: "Pixel Punch: A Vox Product Design Battle"
+date: 2015-10-22
+cats:
+  - event
+  - organizing
+link: http://pixelpunch.voxmedia.com/
+---
+
+In this 2nd year of Pixel Punch, we will be challenging five brave designers do their best Van Helsing and puzzle their way through spooky challenges guaranteed to test their creativity, fortitude and ability to think on their feet. We’re excited to bring together friends, new and old, to puzzle out mysteries together. We’ll bring the spook, you bring your skills.
