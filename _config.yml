@@ -2,7 +2,7 @@ name: Ally Palanzi
 markdown: redcarpet
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-permalink: /:categories/:title.html
+permalink: /:title.html
 post_dirs: false
 
 description: 'a blog about code, design, & life'
