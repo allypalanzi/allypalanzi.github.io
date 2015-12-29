@@ -29,7 +29,7 @@ h3 {
 }
 
 p, li {
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1.4;
   margin: 15px 0;
 }
@@ -46,5 +46,9 @@ figcaption {
   color: lighten($color-type, 10%);
   font-size: 12px;
   font-style: italic;
+}
+
+ul ul {
+  margin-left: 20px;
 }
 
