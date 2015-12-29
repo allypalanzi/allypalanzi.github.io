@@ -11,6 +11,7 @@ After graduating from college in mid 2014, I felt pretty burnt out on working on
 - Taught my first ever [workshop](http://product.voxmedia.com/2015/3/9/8162607/femsplain-html-css-workshop)
 - Taught a class at [General Assembly](https://generalassemb.ly/instructors/ally-palanzi/4262)
 - Named one of [DC’s Powerful Women Programmers](http://dcfemtech.github.io/dcftawards.html)
+- Moved all of my sites over to Digital Ocean and learn a bit about servers
 - Bought a PS4 and got back into playing video games
 - Organized a [hackathon](http://blog.allypalanzi.com/hackathon)
 - Made this blog (that I don’t use enough)
@@ -21,7 +22,7 @@ After graduating from college in mid 2014, I felt pretty burnt out on working on
     - Designing bridal shower invites / [wedding invites](https://dribbble.com/shots/2146343-dine-dance) / lots of wedding collateral
     - Planning a pretty big bridal shower for a bunch of strangers
     - Giving a speech and sobbing in front over 150 people
-- Led a discussion at a [conference](http://sassconf.com/)
+- Led a discussion at [SassConf](http://sassconf.com/)
 - Traveled a bit! (Too much for work, not enough for me)
 
 It was an exhausting and crazy year! I’m extremely introverted, anxious, and overall terrified most of the time and I can’t believe I pushed thorough all of that to accomplish all that I did. Starting to teach and putting myself out there was a huge struggle but I’m really proud of what it has done for me. 2015 was my year of personal and professional growth. I’m really looking forward to building upon that next year, and hoping to have some time to focus on more of my goals, which include:
