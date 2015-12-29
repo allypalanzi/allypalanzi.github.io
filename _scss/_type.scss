@@ -31,7 +31,10 @@ h3 {
 p, li {
   font-size: 20px;
   line-height: 1.4;
-  margin: 15px 0;
+}
+
+p {
+  margin: 20px 0;
 }
 
 em {
@@ -48,7 +51,10 @@ figcaption {
   font-style: italic;
 }
 
-ul ul {
+ul {
   margin-left: 20px;
+  ul {
+    margin-left: 20px;
+  }
 }
 
