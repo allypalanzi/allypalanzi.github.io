@@ -11,7 +11,7 @@ After graduating from college in mid 2014, I felt pretty burnt out on working on
 - Taught my first ever [workshop](http://product.voxmedia.com/2015/3/9/8162607/femsplain-html-css-workshop)
 - Taught a class at [General Assembly](https://generalassemb.ly/instructors/ally-palanzi/4262)
 - Named one of [DC’s Powerful Women Programmers](http://dcfemtech.github.io/dcftawards.html)
-- Moved all of my sites over to Digital Ocean and learn a bit about servers
+- Moved all of my sites over to Digital Ocean and learned a bit about servers
 - Bought a PS4 and got back into playing video games
 - Organized a [hackathon](http://blog.allypalanzi.com/hackathon)
 - Made this blog (that I don’t use enough)
