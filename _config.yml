@@ -1,6 +1,6 @@
 name: Ally Palanzi
-markdown: redcarpet
-highlighter: pygments # or rouge or null
+markdown: kramdown
+highlighter: rouge
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: /:title.html
 post_dirs: false
