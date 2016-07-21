@@ -1,0 +1,18 @@
+.m-nav {
+  border-top: 8px solid $color-main;
+  text-align: right;
+  a {
+    color: $color-type;
+    display: inline-block;
+    font-size: .8em;
+    letter-spacing: 1px;
+    padding: 10px;
+    text-transform: uppercase;
+    transition: background-color 200ms;
+    &:hover {
+      background-color: $color-type;
+      color: #fff;
+      transition: background-color 200ms;
+    }
+  }
+}

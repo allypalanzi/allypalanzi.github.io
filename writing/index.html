@@ -1,0 +1,17 @@
+---
+layout: default
+title: Writing
+subtitle: 'All about code, design, and life'
+---
+
+<ul class="m-post-list">
+  {% for post in site.categories.writing %}
+    <a href="{{ post.url }}">
+      <li class="m-post-list__post l-wrap">
+        <p class="m-post-list__date">{{ post.date | date: "%B %-d, %Y" }}</p>
+        <h2 class="m-post-list__title">{{ post.title }}</h2>
+        <p class="m-post-list__desc">{{ post.content | strip_html | truncatewords: 45 }}</p>
+      </li>
+    </a>
+  {% endfor %}
+</ul>

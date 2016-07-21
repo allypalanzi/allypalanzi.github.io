@@ -1,11 +1,10 @@
 ---
 layout: post
-title: about me
+title: Hi! I'm <b>Ally Palanzi</b>.
+subtitle: 'A front-end engineer with a passion for design, accessibility, and making the world a little brighter.'
 comments: false
 date: false
 ---
-
-## I'm Ally Palanzi.
 
 I'm a senior front-end engineer at Vox Media where I help build internet websites. I also [teach, organize events, and speak](/events) often. I am not good at writing bios, but I am pretty okay at writing code. Currently: JavaScript, Sass, Ruby/Rails and learning all of the things.
 

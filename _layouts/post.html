@@ -2,17 +2,18 @@
 layout: default
 ---
 
-<div class="m-post l__wrap">
+<div class="m-post l-wrap">
   {% if page.date != false %}
     <p class="m-post__date">Posted on: {{ page.date | date: "%B %-d, %Y" }}</p>
   {% endif %}
-  {{ content }}
+  <div class="m-post__content">
+    {{ content }}
+  </div>
 </div>
-
 
 {% if page.comments != false %}
 
-  <div id="disqus_thread" class="l__wrap"></div>
+  <div id="disqus_thread" class="l-wrap"></div>
   <script type="text/javascript">
       /* * * CONFIGURATION VARIABLES * * */
       var disqus_shortname = 'allypalanzi';

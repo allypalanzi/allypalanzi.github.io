@@ -1,17 +1,19 @@
 // Type
 $font-main: 'Source Sans Pro', sans-serif;
+$font-body: Georgia, serif;
 
 // Colors
-$color-pink-1: #7a2848;
-$color-pink-2: #882e50;
-$color-pink-3: #9f2e59;
+$color-pink: #ff3688;
+$color-blue: #0062ff;
+$color-blue-light: #e3eeff;
+$color-blue-dark: #01193a;
 
 $color-type: #333;
-$color-gray: #ccc;
+$color-gray: $color-blue-light;
 
-$color-main: $color-pink-3;
-$color-active: $color-pink-3;
-$color-hover: lighten($color-pink-1, 20%);
+$color-main: $color-pink;
+$color-active: $color-blue;
+$color-hover: lighten($color-pink, 20%);
 
 // Layout
 $content-width: 800px;

@@ -1,7 +1,14 @@
 .m-footer {
+  color: #fff;
+  font-size: .8em;
+  background-color: $color-blue-dark;
   padding: 50px 0;
   text-align: center;
-  p {
-    font-size: 12px;
+  a {
+    color: $color-hover;
+    font-weight: 900;
+    &:hover {
+      color: $color-pink;
+    }
   }
 }
