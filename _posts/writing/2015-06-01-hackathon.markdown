@@ -26,7 +26,7 @@ We had a few:
 - Learn things!
 
 ![Attendees flying their paper airplanes](/assets/images/hackathon/dcft1.jpg)
-<figcaption>Attendees flying their paper airplanes after our icebreaker.</figcaption>
+*Attendees flying their paper airplanes after our icebreaker*
 
 ### Create an environment you want work in
 
@@ -50,7 +50,7 @@ Through DCFemTech, we have built quite an amazing network of women-focused organ
 Obviously not everyone is going to have this luxury, and diversity can be tough. However, if you try, it can definitely happen. If you're planning an event, be sure to reach out to different networks. Find organizations that are outside of your usual friend group or meetup group and go through them. Find twitter accounts for orgs and ask them to tweet for you. There are lots of women and people of color who want to come to your event, you just need to reach them. And you just have to try.
 
 ![Attendees get a Wordpress primer from Beth](/assets/images/hackathon/dcft2.jpg)
-<figcaption>Participants getting a Wordpress primer from Beth</figcaption>
+*Participants getting a Wordpress primer from Beth*
 
 ### Logistics
 
@@ -69,7 +69,7 @@ Jessie came up with the *awesome* idea of donating the leftover food and found t
 Sponsors are hard. Start looking for these early. I'm still figuring out the best ways to handle sponsorship, but I think the best way to find them is to just cold email places. Restaurants will sometimes donate food, so definitely reach out to them. Bagel and coffee shops will often offer up their leftovers at the end of the day, so you can always consider that. And of course lots of tech organizations are usually willing to sponsor.
 
 ![Living Social's sweet office](/assets/images/hackathon/dcft3.jpg)
-<figcaption>Did I mention Living Social has an awesome office?</figcaption>
+*Did I mention Living Social has an awesome office?*
 
 ### Don't worry
 
