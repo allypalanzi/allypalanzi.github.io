@@ -1,6 +1,9 @@
 .m-nav {
   border-top: 8px solid $color-main;
   text-align: right;
+  li {
+    display: inline-block;
+  }
   a {
     color: $color-type;
     display: inline-block;
@@ -9,7 +12,8 @@
     padding: 10px;
     text-transform: uppercase;
     transition: background-color 200ms;
-    &:hover {
+    &:hover,
+    &.current {
       background-color: $color-type;
       color: #fff;
       transition: background-color 200ms;

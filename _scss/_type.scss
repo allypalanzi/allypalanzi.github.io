@@ -30,6 +30,20 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 8px;
 }
 
+a.p-button,
+button {
+  background: $color-blue-dark;
+  color: #fff;
+  font-family: $font-main;
+  text-transform: uppercase;
+  padding: .8em;
+  font-size: 14px;
+  letter-spacing: 1px;
+  &:hover {
+    background-color: $color-main;
+  }
+}
+
 h1 {
   font-size: 3em;
 }

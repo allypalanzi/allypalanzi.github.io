@@ -3,11 +3,14 @@ layout: default
 ---
 
 <div class="m-post l-wrap">
-  {% if page.date != false %}
+  {% if page.show_date != false %}
     <p class="m-post__date">Posted on: {{ page.date | date: "%B %-d, %Y" }}</p>
   {% endif %}
   <div class="m-post__content">
     {{ content }}
+    {% if page.project_link %}
+      <a class="p-button" href="{{ page.project_link }}">view live project</a>
+    {% endif %}
   </div>
 </div>
 
