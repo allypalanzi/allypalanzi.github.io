@@ -1,8 +1,11 @@
 .m-post {
   padding: 1.2em;
+  ul {
+    margin-bottom: 1.2em;
+  }
   li {
-    list-style: disc inside;
-    margin: .5em 0;
+    list-style: disc outside;
+    margin: .5em;
   }
   &__date {
     color: lighten($color-type, 10%);
