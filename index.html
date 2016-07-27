@@ -5,15 +5,13 @@ subtitle: 'A front-end engineer with a passion for design, accessibility, and ma
 page_type: 'home'
 ---
 
-<div>
-  <ul class="m-post-list">
-    {% for post in site.categories.work %}
-      <a href="{{ post.url }}">
-        <li class="m-post-list__post l-wrap">
-          <h2 class="m-post-list__title">{{ post.title }}</h2>
-          <p class="m-post-list__desc">{{ post.subtitle }}</h2>
-        </li>
-      </a>
-    {% endfor %}
-  </ul>
-</div>
+<ul class="m-post-list">
+  {% for post in site.categories.work %}
+    <a href="{{ post.url }}">
+      <li class="m-post-list__post l-wrap">
+        <h2 class="m-post-list__title">{{ post.title }}</h2>
+        <p class="m-post-list__desc">{{ post.subtitle }}</h2>
+      </li>
+    </a>
+  {% endfor %}
+</ul>
