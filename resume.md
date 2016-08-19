@@ -57,7 +57,7 @@ comments: false
 ## Comedy Hack Day DC Winner
 *December 2015*
 
-Worked with a team to develop and prototype a satirical app called IndieHobo. View more here.
+Worked with a team to develop and prototype a satirical app called [IndieHobo](http://www.comedyhackday.org/dc-2015/).
 
 #### INVOLVEMENT
 
