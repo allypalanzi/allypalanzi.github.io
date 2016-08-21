@@ -16,6 +16,9 @@ a:visited {
   text-decoration: none;
   transition: all .1s;
   font-weight: 900;
+  p {
+    font-weight: normal;
+  }
 }
 
 a:hover {
