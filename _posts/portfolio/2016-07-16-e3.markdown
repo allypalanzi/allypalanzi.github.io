@@ -7,6 +7,7 @@ show_date: false
 categories: work
 project_link: 'http://www.polygon.com/a/e3-2014'
 ---
+![Image of the Polygon E3 website](/assets/images/work/e31.jpg)
+![Image of the Polygon E3 website](/assets/images/work/e32.jpg)
 
-tk tk tk
 
