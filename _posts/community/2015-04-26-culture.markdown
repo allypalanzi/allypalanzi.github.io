@@ -5,7 +5,7 @@ cats:
   - event
   - organizing
 link: http://product.voxmedia.com/2015/4/2/8327525/letstalkculture-panel-recap
-categories: events
+categories: community
 ---
 
 Vox Product hosted a panel series in DC and New York on the topic of culture. "Let’s Talk Culture" included panelists from companies like BuzzFeed and Viget with backgrounds in design, management, journalism, and HR. The discussion focused on creating and maintaining a healthy, diverse, and productive company culture.

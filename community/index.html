@@ -1,0 +1,23 @@
+---
+layout: default
+title: Community
+subtitle: 'Speaking, teaching, organizing'
+page_type: 'community'
+---
+
+<ul class="m-post-list">
+  {% for community in site.categories.community %}
+    <a href="{{ community.link }}">
+      <li class="m-post-list__post l-wrap">
+        {% for cat in community.cats %}
+        <ul class="m-post-list__categories">
+          <li class="m-post-list__category"> {{ cat }}</li>
+        </ul>
+        {% endfor %}
+        <p class="m-post-list__date">{{ community.date | date: "%B %-d, %Y" }}</p>
+        <h2 class="m-post-list__title">{{ community.title }}</h2>
+        <p class="m-post-list__desc">{{ community.content | strip_html }}</p>
+      </li>
+    </a>
+  {% endfor %}
+</ul>

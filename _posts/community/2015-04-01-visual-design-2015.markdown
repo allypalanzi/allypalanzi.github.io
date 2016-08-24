@@ -4,5 +4,5 @@ date: 2015-04-01
 cats:
   - teaching
 link: https://generalassemb.ly/instructors/ally-palanzi/4262
-categories: events
+categories: community
 ---
