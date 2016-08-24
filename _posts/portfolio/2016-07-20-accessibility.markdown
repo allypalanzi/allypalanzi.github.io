@@ -8,7 +8,7 @@ project_link: 'http://accessibility.voxmedia.com/'
 categories: work
 ---
 
-![](/assets/images/work/a11y1.jpg)
+![Image of the Accessibility Guidelines website](/assets/images/work/a11y1.jpg)
 
 #### Team
 - **Documentation:** Ally Palanzi, Kelsey Scherer, Winston Hearn, Mariah Minigan, Sanette Takana, Jessica Paoli
