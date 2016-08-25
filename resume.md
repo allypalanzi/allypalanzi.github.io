@@ -7,6 +7,8 @@ show_date: false
 comments: false
 ---
 
+<div markdown="1">
+
 #### EXPERIENCE
 
 ## Senior Front-End Engineer, Vox Media
@@ -26,6 +28,10 @@ comments: false
 
   - Post Vox.com launch, worked with a product manager, a designer, and a full-stack engineer to implement new features and bug fixes to support the site and editorial needs. Including [launching embeddable card stacks](http://www.vox.com/2015/5/28/8677005/embeddable-card-stacks-launch).
   - Worked with a product manager, a designer, and Editorial staff on developing interactive feature layouts for Polygon.
+</div>
+<div markdown="1">
+
+#### &nbsp;
 
 ## Visual Design Instructor, General Assembly
 *April 2015 – May 2015*
@@ -44,6 +50,9 @@ comments: false
 
   - Aided professor with teaching basic website design and coding with HTML, CSS, and JavaScript.
 
+</div>
+<div markdown="1">
+
 #### AWARDS
 
 ## DCFemTech Powerful Woman Programmers
@@ -59,6 +68,7 @@ comments: false
 
 Worked with a team to develop and prototype a satirical app called [IndieHobo](http://www.comedyhackday.org/dc-2015/).
 
+
 #### INVOLVEMENT
 
 ## DCFemTech Advocate & Organizer
@@ -68,6 +78,8 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 ## SassyDC Meetup Organizer
 *2014 – 2016*
 <p></p>
+</div>
+<div markdown="1">
 
 #### EDUCATION
 
@@ -80,4 +92,6 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 **Proficient in:** Sass/CSS, HTML, JavaScript, Backbone JS, Static site generators: Middleman, Jekyll; JavaScript task runners: Grunt, Gulp; HTML Templating: ERB, Handlebars, Underscore; Git/Github, UX & UI Design, Adobe Suite
 
 **Knowledge of:** Ruby / Ruby on Rails, Node, TDD, Webpack, Python
+
+</div>
 
