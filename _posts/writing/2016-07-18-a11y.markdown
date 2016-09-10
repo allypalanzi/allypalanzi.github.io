@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Open sourcing our accessibility guidelines"
+date:   2016-07-18
+categories: writing
+link: http://product.voxmedia.com/2016/7/18/12214220/accessibility-open-source
+---
+
+In May, six Vox Media team members gathered in Washington, D.C., for two days to figure out how to approach accessibility on a company-wide scale. We have many advocates for accessibility throughout the company, but at the time of our gathering, we didn’t have a company-wide structure in place to implement standards across the board. Over the course of two days, we documented role-specific best practices and how each team member could implement them into their actual work. Later, we shared what we learned with the company.
+

@@ -7,7 +7,11 @@ page_type: 'writing'
 
 <ul class="m-post-list">
   {% for post in site.categories.writing %}
-    <a href="{{ post.url }}">
+    {% if post.link %}
+      <a target="_blank" href="{{ post.link }}">
+    {% else %}
+      <a href="{{ post.url }}">
+    {% endif %}
       <li class="m-post-list__post l-wrap">
         <p class="m-post-list__date">{{ post.date | date: "%B %-d, %Y" }}</p>
         <h2 class="m-post-list__title">{{ post.title }}</h2>
