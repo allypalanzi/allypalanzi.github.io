@@ -28,10 +28,6 @@ comments: false
 
   - Post Vox.com launch, worked with a product manager, a designer, and a full-stack engineer to implement new features and bug fixes to support the site and editorial needs. Including [launching embeddable card stacks](http://www.vox.com/2015/5/28/8677005/embeddable-card-stacks-launch).
   - Worked with a product manager, a designer, and Editorial staff on developing interactive feature layouts for Polygon.
-</div>
-<div markdown="1">
-
-#### &nbsp;
 
 ## Visual Design Instructor, General Assembly
 *April 2015 – May 2015*
@@ -68,7 +64,6 @@ comments: false
 
 Worked with a team to develop and prototype a satirical app called [IndieHobo](http://www.comedyhackday.org/dc-2015/).
 
-
 #### INVOLVEMENT
 
 ## DCFemTech Advocate & Organizer
@@ -78,8 +73,6 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 ## SassyDC Meetup Organizer
 *2014 – 2016*
 <p></p>
-</div>
-<div markdown="1">
 
 #### EDUCATION
 

@@ -25,7 +25,7 @@
   &__content {
     color: #333;
     .resume & {
-      @media(min-width: $bp-sm) {
+      // @media(min-width: $bp-sm) {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
@@ -33,7 +33,7 @@
           flex-basis: 45%;
           margin-bottom: 1.5em;
         }
-      }
+      // }
     }
   }
 }
