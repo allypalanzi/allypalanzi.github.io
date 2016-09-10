@@ -14,7 +14,14 @@ page_type: 'community'
           <li class="m-post-list__category"> {{ cat }}</li>
         </ul>
         {% endfor %}
-        <p class="m-post-list__date">{{ community.date | date: "%B %-d, %Y" }}</p>
+        <p class="m-post-list__date">
+        {% if community.eventDate %}
+          {{ community.eventDate | date: "%B %-d, %Y" }}
+        {% else %}
+          {{ community.date | date: "%B %-d, %Y" }}
+        {% endif %}
+
+        </p>
         <h2 class="m-post-list__title">{{ community.title }}</h2>
         <p class="m-post-list__desc">{{ community.content | strip_html }}</p>
       </li>
