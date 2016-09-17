@@ -5,12 +5,14 @@
 
 @import '_modules/!manifest';
 
-iframe {
+iframe,
+twitterwidget {
   margin: $space-med auto !important; // _sigh_ to overwrite embeds inline styles
   width: 100%;
 }
 
 img {
+  max-width: 100%;
   width: 100%;
 }
 
