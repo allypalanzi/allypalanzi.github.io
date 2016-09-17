@@ -1,10 +1,10 @@
 ---
-title: "Accessibility matters. Let's do something about it. | CSSConf Australia"
+title: "Accessibility matters. Let's do something about it. | Refresh DC"
 date: 2016-08-30
-eventDate: 2016-11-30
+eventDate: 2016-09-22
 cats:
   - conference
-link: 2016.cssconf.com.au
+link: https://nvite.com/refreshdc/glq9wx
 categories: community
 ---
 
