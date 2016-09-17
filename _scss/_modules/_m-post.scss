@@ -21,10 +21,8 @@
   a {
     border-bottom: 1px solid;
     border-color: transparent;
-    transition: border 200ms;
     &:hover {
       border-color: $color-hover;
-      transition: border 200ms;
     }
   }
   &__content {

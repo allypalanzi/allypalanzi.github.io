@@ -4,7 +4,7 @@
   &__date {
     color: $color-pink;
     font-size: .7em;
-    margin: 5px 0;
+    margin-bottom: $space-small;
     text-transform: uppercase;
   }
 
@@ -14,7 +14,7 @@
 
   &__categories {
     display: inline-block;
-    margin: 5px 5px 5px 0;
+    margin-right: $space-small;
   }
 
   &__category {
@@ -22,7 +22,7 @@
     color: #fff;
     font-size: .7em;
     margin: 0;
-    padding: 3px 5px;
+    padding: $space-xsmall;
     text-transform: uppercase;
   }
 
@@ -32,13 +32,18 @@
     font-size: .9em;
   }
 
+  &__post {
+    padding: $space-large 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
   a {
     display: block;
-    padding: 20px 0 10px;
-    transition: background 300ms;
     &:hover {
       background: $color-blue-light;
-      transition: background 300ms;
     }
   }
 }

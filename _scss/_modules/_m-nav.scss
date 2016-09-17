@@ -1,5 +1,6 @@
 .m-nav {
   border-top: 8px solid $color-main;
+  margin-bottom: $space-large;
   text-align: right;
   li {
     display: inline-block;
@@ -8,8 +9,8 @@
     color: $color-type;
     display: inline-block;
     font-size: .8em;
-    letter-spacing: .2px;
-    padding: 10px;
+    letter-spacing: .2;
+    padding: .5rem;
     text-transform: uppercase;
     transition: background-color 200ms;
     &:hover,

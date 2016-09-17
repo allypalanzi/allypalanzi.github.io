@@ -6,7 +6,7 @@
 @import '_modules/!manifest';
 
 iframe {
-  margin: 20px auto !important; // _sigh_ to overwrite embeds inline styles
+  margin: $space-med auto !important; // _sigh_ to overwrite embeds inline styles
   width: 100%;
 }
 
