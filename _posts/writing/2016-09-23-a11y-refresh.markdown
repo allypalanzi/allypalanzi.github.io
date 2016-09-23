@@ -23,3 +23,9 @@ Last night, I spoke all about accessibility at [Refresh DC](https://nvite.com/re
 
 <iframe src="https://docs.google.com/presentation/d/1pYcP8Hc0ZxnCP4Pxc4eUQzCEtG30yt-_nI2z9RqAf2A/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+
+Special thanks to:
+
+ - [Kelsey Scherer](https://twitter.com/kelsa_) for letting me steal some slides and images from her.
+ - Everyone who has helped with Vox Media's Accessibility Guidlines: [Kelsey Scherer](https://twitter.com/kelsa_), [Winston Hearn](https://twitter.com/suchwinston), [Mariah Minigan](https://twitter.com/mariahminigan), [Sanette Takana](https://twitter.com/ssktanaka) and [Jessica Paoli](https://twitter.com/skullface).
+
