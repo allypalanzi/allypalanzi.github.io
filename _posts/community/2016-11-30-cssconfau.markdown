@@ -1,6 +1,6 @@
 ---
 title: "Accessibility matters. Let's do something about it. | CSSConf Australia"
-date: 2016-08-30
+date: 2016-08-31
 eventDate: 2016-11-30
 cats:
   - conference

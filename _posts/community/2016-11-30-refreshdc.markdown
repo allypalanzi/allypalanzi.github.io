@@ -3,7 +3,7 @@ title: "Accessibility matters. Let's do something about it. | Refresh DC"
 date: 2016-08-30
 eventDate: 2016-09-22
 cats:
-  - conference
+  - meetup
 link: https://nvite.com/refreshdc/glq9wx
 categories: community
 ---
