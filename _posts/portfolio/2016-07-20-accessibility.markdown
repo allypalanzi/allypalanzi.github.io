@@ -10,10 +10,8 @@ categories: work
 
 ![Image of the Accessibility Guidelines website](/assets/images/work/a11y1.jpg)
 
-#### Team
-- **Documentation:** Ally Palanzi, Kelsey Scherer, Winston Hearn, Mariah Minigan, Sanette Takana, Jessica Paoli
-- **Design:** Kelsey Scherer, Sanette Takana
-- **Development:** Ally Palanzi, Winston Hearn
+#### Role
+Senior Front-End Engineer, Documentation
 
 #### The Project
 

@@ -11,10 +11,9 @@ categories: work
 <div class="vox-cardstack"><a href="http://www.vox.com/cards/global-warming">Global warming, explained</a></div>
 <script src="//embed.vox.com/cardstack.js"></script>
 
-#### Team
-- **Project Management** Melissa Bell
-- **Design:** Warren Schultheis
-- **Development:** Ally Palanzi, Jesse Young
+
+#### Role
+Front-End Engineer
 
 #### Project
 

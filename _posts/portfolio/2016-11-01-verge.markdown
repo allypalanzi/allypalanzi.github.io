@@ -11,14 +11,12 @@ categories: work
 ![The Verge's brand new homepage](/assets/images/work/vergehp.jpg)
 
 #### Role
-- Senior Front-End Engineer
+Senior Front-End Engineer
 
 #### The Project
 
-tk tk tk
+Words will be here soon, I promise.
 
 ![Homepage showing variation in masthead headers](/assets/images/work/verge_mastheads.gif)
 
-
-
-You can [read more about the rebrand on The Verge](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016).
+[Read more about the rebrand from The Verge](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016).

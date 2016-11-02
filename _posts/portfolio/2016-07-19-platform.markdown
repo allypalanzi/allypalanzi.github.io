@@ -7,4 +7,7 @@ show_date: false
 categories: work
 ---
 
+#### Role
+Senior Front-End Engineer
+
 This has been a big project, and writing about it is taking longer than I expected. Check back later and read about [Curbed on Chorus, the start of a new era at Vox Media on our Product Blog](http://product.voxmedia.com/2016/2/23/11098476/curbed-on-chorus-the-start-of-a-new-era-at-vox-media) in the meantime!
