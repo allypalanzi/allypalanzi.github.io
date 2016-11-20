@@ -10,4 +10,22 @@ categories: work
 #### Role
 Senior Front-End Engineer
 
-This has been a big project, and writing about it is taking longer than I expected. Check back later and read about [Curbed on Chorus, the start of a new era at Vox Media on our Product Blog](http://product.voxmedia.com/2016/2/23/11098476/curbed-on-chorus-the-start-of-a-new-era-at-vox-media) in the meantime!
+#### Tools & Technology
+- Ruby on Rails
+- Webpack
+- Sass
+- Backbone
+
+#### The Project
+In early 2014, we embarked on a project to unify the 8 Vox Media brands and 300+ websites onto one core platform. We called this project **Unison**. Previously, our sites all shared core back-end functionality, but we had 8 completely separate front-end codebases. As we began adding brands to our platform, we realized this was absolutely not scalable.
+
+This was a chance to start fresh! After years of building off an existing platform, we were able to start over and rethink how we do front-end development at Vox Media. We stared small: building a baseline of what a Vox Media website would be, and built in functionality to "theme" our sites, so brands could easily have a different set of styles (colors, typography, etc).
+
+Currently, you can see the culmination of all of this work on <a href="http://curbed.com">Curbed</a>, <a href="http://recode.net">Recode</a>, <a href="http://racked.com">Racked</a>, <a href="http://voxmedia.com">Vox Media</a>, <a href="http://product.voxmedia.com">Vox Product Blog</a> and any Vox Media brand's article pages.
+
+![Curbed on Unison](/assets/images/work/curbedhp.jpg)
+*<a href="http://curbed.com">Curbed</a> was the first site we built onto this new platform.*
+
+As a senior front-end engineer on this team, in addition to building out the product, I've spent a lot of time writing documentation, influencing front-end architecture, and making product decisions.
+
+Read more from our product blog: [Curbed on Chorus, the start of a new era at Vox Media](http://product.voxmedia.com/2016/2/23/11098476/curbed-on-chorus-the-start-of-a-new-era-at-vox-media).
