@@ -13,4 +13,7 @@ project_link: 'http://www.polygon.com/a/e3-2014'
 #### Role
 Front-End Engineer, Design
 
+#### The Project
+For 2014's E3 Coverage, Polygon wanted a special place to house all of their content. In a short time period, we built out a design system and microsite to support the need and provide our audience with the most thorough coverge during E3.
+
 

@@ -21,6 +21,9 @@ In early 2014, we embarked on a project to unify the 8 Vox Media brands and 300+
 
 This was a chance to start fresh! After years of building off an existing platform, we were able to start over and rethink how we do front-end development at Vox Media. We stared small: building a baseline of what a Vox Media website would be, and built in functionality to "theme" our sites, so brands could easily have a different set of styles (colors, typography, etc).
 
+![Example of tool we use to theme our sites](/assets/images/work/themer.jpg)
+*To theme our sites, we have a modal appear over the page for designers to adjust styles.*
+
 Currently, you can see the culmination of all of this work on <a href="http://curbed.com">Curbed</a>, <a href="http://recode.net">Recode</a>, <a href="http://racked.com">Racked</a>, <a href="http://voxmedia.com">Vox Media</a>, <a href="http://product.voxmedia.com">Vox Product Blog</a> and any Vox Media brand's article pages.
 
 ![Curbed on Unison](/assets/images/work/curbedhp.jpg)

@@ -108,6 +108,8 @@ img + em {
   color: lighten($color-type, 10%);
   font-size: .7em;
   font-style: italic;
+  position: relative;
+  top: -1.2em;
 }
 
 ul {
