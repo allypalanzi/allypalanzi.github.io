@@ -74,17 +74,17 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 *2014 – 2016*
 <p></p>
 
-#### EDUCATION
-
-## Bachelor of Arts, Graphic Design & Minor in Computer Science
-*American University, 2010 – 2014*
-<p></p>
-
 #### SKILLS
 
 **Proficient in:** Sass/CSS, HTML, JavaScript, Backbone JS, Static site generators: Middleman, Jekyll; JavaScript task runners: Grunt, Gulp; HTML Templating: ERB, Handlebars, Underscore; Git/Github, UX & UI Design, Adobe Suite
 
 **Knowledge of:** Ruby / Ruby on Rails, Node, TDD, Webpack, Python
+<p></p>
+
+#### EDUCATION
+
+## Bachelor of Arts, Graphic Design & Minor in Computer Science
+*American University, 2010 – 2014*
 
 </div>
 
