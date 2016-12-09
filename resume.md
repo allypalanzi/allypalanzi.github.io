@@ -21,7 +21,7 @@ comments: false
   - Mentor and help new teammates.
   - Lead a monthly front-end skill-share.
   - Work with other Product Team members and leadership on developing a culture for [hosting events](http://product.voxmedia.com/events) and contributing back to the community.
-  - Create [guidelines](http://accessibility.voxmedia.com/) and advocate for Accessibility within the company
+  - Create [guidelines](http://accessibility.voxmedia.com/) and advocate for Accessibility within the company.
 
 ## Front-End Engineer, Vox Media
 *May 2014 – November 2015*
