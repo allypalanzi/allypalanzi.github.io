@@ -4,7 +4,7 @@ date: 2016-08-31
 eventDate: 2016-11-30
 cats:
   - conference
-link: 2016.cssconf.com.au
+link: http://2016.cssconf.com.au
 categories: community
 ---
 
