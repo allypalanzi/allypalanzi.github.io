@@ -56,7 +56,7 @@ comments: false
 <p></p>
 
 ## Trending Power Women in DC
-*2015 Recipient*
+*2016 Recipient*
 <p></p>
 
 ## Comedy Hack Day DC Winner
