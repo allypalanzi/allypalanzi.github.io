@@ -16,7 +16,8 @@ I'm not going to lie, at first I didn't want to write this. After looking at my 
 *I don't commit on the weekends, most of this chart is work tbh*
 
 - Went to 3 conferences (Clarity Conf, SRCCON, CSSConf/JSConf/Decompress AU)
-- Spoke at CSSConf Australia
+- [Spoke at CSSConf Australia](http://2016.cssconf.com.au/)
+- [Spoke at Refresh DC](/a11y-refresh.html)
 - Organized [Hack For Good 2](https://dcfemtech.github.io/hackforgood) with DCFemTech
 - Helped with design for [Powerful Women Programmer Awards](https://dcfemtech.github.io/awards.html)
 - Redesigned/built [DCFemTech's](https://dcfemtech.github.io/) new website
