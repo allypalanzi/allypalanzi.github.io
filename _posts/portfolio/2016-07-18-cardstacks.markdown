@@ -13,7 +13,8 @@ categories: work
 
 
 #### Role
-Front-End Engineer
+- Front-End Engineer
+- Designer
 
 #### Project
 
