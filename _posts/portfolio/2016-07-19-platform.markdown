@@ -38,5 +38,5 @@ Read more from our product blog: [Curbed on Chorus, the start of a new era at Vo
 ![Curbed on Unison](/assets/images/work/curbedhp.jpg)
 *<a href="http://curbed.com">Curbed</a> was the first site we built onto this new platform.*
 
-![Newslette modules across brands](/assets/images/work/newsletters.jpg)
-*Example of our newsletter module, one that we allow more brand customization on.*
+![Examples of next reads and newsletter modules](/assets/images/work/components.jpg)
+*Example of next reads and newsletter module across brands.*
