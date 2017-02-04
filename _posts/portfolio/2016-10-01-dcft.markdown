@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "DCFemTech Website Redesign"
+subtitle: "DCFemTech is a coalition of women leaders aimed at amplifying women in tech organizations, sharing resources, and bringing leaders together to close the gender gap. We needed a centralized place to surface events and give folks resources about organizations."
+comments: false
+show_date: false
+project_link: 'http://dcfemtech.github.io'
+categories: work
+---
+
+![DCFT Website image](/assets/images/work/dcft.jpg)
+
+#### Role
+- Front-end developer
+- Designer
+
+#### The Project
+
+Redesign and build of the DCFemTech website.
