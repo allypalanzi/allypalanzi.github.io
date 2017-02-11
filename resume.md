@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hi! I'm <b>Ally Palanzi</b>.
-subtitle: 'A front-end engineer with a passion for design, accessibility, &amp; ice cream.'
+subtitle: I'm a front-end engineer with a passion for design, accessibility, inclusion, and ice cream.
 page_type: 'resume'
 show_date: false
 comments: false
@@ -41,11 +41,6 @@ comments: false
   - Worked with editorial staff and a designer on developing interactive feature layouts.
   - Front-end development for the corporate website.
 
-## Teaching Assistant, Web Design, American University
-*August 2011 – December 2011*
-
-  - Aided professor with teaching basic website design and coding with HTML, CSS, and JavaScript.
-
 </div>
 <div markdown="1">
 
@@ -70,6 +65,14 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 *2014 – Current*
 <p></p>
 
+## CSSConf Australia
+*2016 Speaker*
+<p></p>
+
+## SassConf
+*2015 Speaker*
+<p></p>
+
 ## SassyDC Meetup Organizer
 *2014 – 2016*
 <p></p>
@@ -87,4 +90,3 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 *American University, 2010 – 2014*
 
 </div>
-
