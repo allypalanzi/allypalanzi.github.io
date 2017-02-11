@@ -9,11 +9,6 @@ page_type: 'community'
   {% for community in site.categories.community %}
     <a href="{{ community.link }}">
       <li class="m-post-list__post l-wrap">
-        {% for cat in community.cats %}
-        <ul class="m-post-list__categories">
-          <li class="m-post-list__category"> {{ cat }}</li>
-        </ul>
-        {% endfor %}
         <p class="m-post-list__date">
         {% if community.eventDate %}
           {{ community.eventDate | date: "%B %-d, %Y" }}
