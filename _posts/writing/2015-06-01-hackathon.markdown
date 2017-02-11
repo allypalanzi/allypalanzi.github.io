@@ -54,17 +54,17 @@ Obviously not everyone is going to have this luxury, and diversity can be tough.
 
 ### Logistics
 
-**Space**
+#### Space
 
 We had an AMAZING space. We worked out of Living Social, and it was perfect. It was open, had separate rooms for different teams to focus in, and it was in a convenient location.
 
-**Food**
+#### Food
 
 We ordered too much. Know that only 50% of the people who sign up are going to actually come, and order for that. Don't forget dietary restrictions! Be sure to have vegetarian, vegan, and gluten free options.
 
 Jessie came up with the *awesome* idea of donating the leftover food and found that <a href="http://www.dccentralkitchen.org/" target="_blank">DC Central Kitchen</a> will take left over food donations. Just call them ahead of time and see that they'll take what you have, and you can either drop it off or I believe if you call them early enough, you can arrange a pick up. We brought all of our leftover food there which was great.
 
-**Sponsors**
+#### Sponsors
 
 Sponsors are hard. Start looking for these early. I'm still figuring out the best ways to handle sponsorship, but I think the best way to find them is to just cold email places. Restaurants will sometimes donate food, so definitely reach out to them. Bagel and coffee shops will often offer up their leftovers at the end of the day, so you can always consider that. And of course lots of tech organizations are usually willing to sponsor.
 

@@ -10,8 +10,10 @@
   a {
     color: $color-hover;
     font-weight: 900;
+    border-bottom: 1px solid;
+    border-color: transparent;
     &:hover {
-      color: $color-pink;
+      border-color: $color-hover;
     }
   }
 }
