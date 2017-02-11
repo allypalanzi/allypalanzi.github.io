@@ -55,9 +55,9 @@ h1 {
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 1.5em;
   .resume & {
-    font-size: 1.5em;
+    font-size: 1.25em;
     margin-bottom: 0;
   }
 }
@@ -73,6 +73,7 @@ h4 {
   color: $color-main;
   text-transform: uppercase;
   .resume & {
+    font-size: .9em;
     margin-top: $space-xlarge;
     &:first-of-type {
       margin-top: 0;
@@ -124,4 +125,3 @@ hr {
   border-style: solid;
   margin: $space-large 0;
 }
-
