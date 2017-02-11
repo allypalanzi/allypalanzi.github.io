@@ -7,13 +7,17 @@ show_date: false
 categories: work
 project_link: 'http://www.polygon.com/a/e3-2014'
 ---
-![Image of the Polygon E3 website](/assets/images/work/e31.jpg)
-![Image of the Polygon E3 website](/assets/images/work/e32.jpg)
+![Image of the Polygon E3 website](/assets/images/work/polygon-e3-1.jpg)
+![Image of the Polygon E3 website](/assets/images/work/polygon-e3.jpg)
 
 #### Role
-Front-End Engineer, Design
+- Front-End Engineer
+- Designer
+
+#### Tools & Technology
+- Ruby on Rails
+- Middleman
+- Sass
 
 #### The Project
-For 2014's E3 Coverage, Polygon wanted a special place to house all of their content. In a short time period, we built out a design system and microsite to support the need and provide our audience with the most thorough coverge during E3.
-
-
+For 2014's E3 Coverage, Polygon wanted a special place to house all of their content. In a short time period, we built out a design system and microsite to support the need and provide our audience with the most thorough coverage during E3.
