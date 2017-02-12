@@ -34,7 +34,7 @@ comments: false
 
   - Worked with General Assembly coordinators and two other instructors to teach students an introduction to design. Including: design concepts, branding, layout, and responsive design.
 
-## Front-End Design Intern, Vox Media
+## Front-End Designer, Vox Media
 *May 2012 – May 2014*
 
   - Worked as one of the founding designers of Polygon.
@@ -87,6 +87,6 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 #### EDUCATION
 
 ## Bachelor of Arts, Graphic Design & Minor in Computer Science
-*American University, 2010 – 2014*
+*American University*
 
 </div>
