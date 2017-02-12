@@ -79,7 +79,7 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 
 #### SKILLS
 
-**Proficient in:** Sass/CSS, HTML, JavaScript, Backbone JS, Static site generators: Middleman, Jekyll; JavaScript task runners: Grunt, Gulp; HTML Templating: ERB, Handlebars, Underscore; Git/Github, UX & UI Design, Adobe Suite
+**Proficient in:** Sass/CSS, HTML, JavaScript, Backbone JS, Git, UI & UX design, Adobe Suite, accessibility best practices, performance best practices
 
 **Knowledge of:** Ruby / Ruby on Rails, Node, TDD, Webpack, Python
 <p></p>
