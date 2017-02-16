@@ -12,8 +12,6 @@ categories: work
 
 #### Role
 - Senior Front-end Developer
-- Liaison between engineering and design also between engineering and product stakeholders
-- Keep our design system consistent & beautiful
 
 #### Tools & Technology
 - Ruby on Rails

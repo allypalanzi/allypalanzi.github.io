@@ -15,7 +15,6 @@ project_link: 'http://www.polygon.com/a/e3-2014'
 - Designer
 
 #### Tools & Technology
-- Ruby on Rails
 - Middleman
 - Sass
 
