@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hi! I'm <b>Ally Palanzi</b>.
-subtitle: I'm a front-end engineer with a passion for design, accessibility, inclusion, and ice cream.
+subtitle: I'm a front-end engineer with a passion for design, accessibility, inclusion, and ice cream. Currently, improving how government serves people at <a href="http://navahq.com/">Nava</a>.
 page_type: 'resume'
 show_date: false
 comments: false
@@ -11,8 +11,13 @@ comments: false
 
 #### EXPERIENCE
 
+## Front-End Engineer + Designer, Nava PBC
+*April 2017 – Current*
+
+<br>
+
 ## Senior Front-End Engineer, Vox Media
-*November 2015 – Current*
+*November 2015 – March 2017*
 
   - Work closely with designers, product managers, and full-stack engineers to implement new features across our platform, Chorus.
   - Work with other engineers to redefine the architecture and tooling for the front-end of our platform.
