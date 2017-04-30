@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Verge 3.0"
-subtitle: "In 2014, we embarked on a huge project at Vox Media to unify all of our brand's websites (8 brands, 350+ sites) under the same design system and underlying platform. In 2016, under a tight deadline, we moved one of our largest brands, The Verge, complete with an overhaul of our platform's Homepage Product and The Verge's identity."
+title:  "The Verge 3.0 / Vox Media Homepages"
+subtitle: "In 2014, we embarked on a huge project at Vox Media to unify all of our brand's websites (8 brands, 350+ sites) under the same design system and underlying platform. In 2016, under a tight deadline, we moved one of our largest brands, The Verge, complete with an overhaul of our platform's Homepage Product and The Verge's identity. We then used this work to influence our other properties' home pages."
 comments: false
 show_date: false
 project_link: 'http://theverge.com'
@@ -9,6 +9,8 @@ categories: work
 ---
 
 ![The Verge's brand new homepage](/assets/images/work/vergehp.jpg)
+![Curbed's homepage](/assets/images/work/curbednewhp.jpg)
+![Vox's homepage](/assets/images/work/voxhp.jpg)
 
 #### Role
 Senior Front-End Engineer
@@ -20,3 +22,5 @@ Words will be here soon, I promise.
 ![Homepage showing variation in masthead headers](/assets/images/work/verge_mastheads.gif)
 
 [Read more about the rebrand from The Verge](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016).
+[Launching a new homepage for Curbed](https://product.voxmedia.com/2017/3/2/14779570/launching-a-new-homepage-for-curbed).
+[Behind Vox.com’s homepage refresh](https://product.voxmedia.com/2017/4/6/15182844/behind-vox-homepage-refresh).
