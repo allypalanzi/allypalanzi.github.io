@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Verge 3.0 / Vox Media Homepages"
-subtitle: "In 2014, we embarked on a huge project at Vox Media to unify all of our brand's websites (8 brands, 350+ sites) under the same design system and underlying platform. In 2016, under a tight deadline, we moved one of our largest brands, The Verge, complete with an overhaul of our platform's Homepage Product and The Verge's identity. We then used this work to influence our other properties' home pages."
+subtitle: "In 2014, we embarked on a huge project at Vox Media to unify all of our brand's websites (8 brands, 350+ sites) under the same design system and underlying platform. In 2016, under a tight deadline, we moved one of our largest brands, The Verge, complete with an overhaul of our platform's Homepage Product and The Verge's identity. We then used this work to influence our other properties homepages."
 comments: false
 show_date: false
 project_link: 'http://theverge.com'
