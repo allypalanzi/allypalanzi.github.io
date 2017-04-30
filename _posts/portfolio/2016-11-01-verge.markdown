@@ -21,6 +21,6 @@ Words will be here soon, I promise.
 
 ![Homepage showing variation in masthead headers](/assets/images/work/verge_mastheads.gif)
 
-[Read more about the rebrand from The Verge](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016).
-[Launching a new homepage for Curbed](https://product.voxmedia.com/2017/3/2/14779570/launching-a-new-homepage-for-curbed).
-[Behind Vox.com’s homepage refresh](https://product.voxmedia.com/2017/4/6/15182844/behind-vox-homepage-refresh).
+- [Read more about the rebrand from The Verge](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016).
+- [Launching a new homepage for Curbed](https://product.voxmedia.com/2017/3/2/14779570/launching-a-new-homepage-for-curbed).
+- [Behind Vox.com’s homepage refresh](https://product.voxmedia.com/2017/4/6/15182844/behind-vox-homepage-refresh).
