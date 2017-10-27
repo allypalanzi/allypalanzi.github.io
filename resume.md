@@ -11,8 +11,13 @@ comments: false
 
 #### EXPERIENCE
 
-## Front-End Engineer + Designer, Nava PBC
+## Engineer, Nava PBC
 *April 2017 – Current*
+  
+  - Tech lead on App 2 (the current HealthCare.Gov Application)
+  - Engineer on App 3 (the future HealthCare.Gov Application)
+  - Work closely with engineers to research, redefine, and build the next version of HealthCare.Gov
+  - Build scalable web applications that serve 30+ Million Americans
 
 <br>
 
@@ -84,9 +89,9 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 
 #### SKILLS
 
-**Proficient in:** Sass/CSS, HTML, JavaScript, Backbone JS, Git, UI & UX design, Adobe Suite, accessibility best practices, performance best practices
+**Proficient in:** JavaScript, React, Backbone, Sass/CSS, HTML, Git, UI & UX design, Adobe Suite, accessibility best practices, performance best practices
 
-**Knowledge of:** Ruby / Ruby on Rails, Node, TDD, Webpack, Python
+**Knowledge of:** Ruby / Ruby on Rails, Node, Webpack, Python, AWS
 <p></p>
 
 #### EDUCATION
