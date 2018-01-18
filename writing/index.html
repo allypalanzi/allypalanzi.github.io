@@ -5,8 +5,12 @@ subtitle: 'All about code, design, and life'
 page_type: 'writing'
 ---
 
+
+
 <ul class="m-post-list">
   {% for post in site.categories.writing %}
+    {% assign desc = post.desc %}
+    {% unless desc %}{% assign desc = post.content | strip_html | truncatewords: 45 %}{% endunless %}
     {% if post.link %}
       <a target="_blank" href="{{ post.link }}">
     {% else %}
@@ -15,7 +19,7 @@ page_type: 'writing'
       <li class="m-post-list__post l-wrap">
         <p class="m-post-list__date">{{ post.date | date: "%B %-d, %Y" }}</p>
         <h2 class="m-post-list__title">{{ post.title }}</h2>
-        <p class="m-post-list__desc">{{ post.content | strip_html | truncatewords: 45 }}</p>
+        <p class="m-post-list__desc">{{ desc }}</p>
       </li>
     </a>
   {% endfor %}

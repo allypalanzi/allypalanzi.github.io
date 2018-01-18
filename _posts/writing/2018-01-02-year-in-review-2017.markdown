@@ -3,6 +3,7 @@ layout: post
 title:  "2017 was weird."
 date:   2018-01-02
 categories: writing
+desc: My 2017 in review.
 ---
 
 Hi hello happy 2018! I just got back to work after a relaxing week off where I watched every episode of Star Wars and barely left the house. I feel very rested and excited for 2018.
