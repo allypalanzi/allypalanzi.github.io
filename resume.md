@@ -71,7 +71,11 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 
 #### INVOLVEMENT
 
-## DCFemTech Advocate & Organizer
+## DCFemTech Leadership Committee
+*2018 – Current*
+<p></p>
+
+## DCFemTech Member
 *2014 – Current*
 <p></p>
 
