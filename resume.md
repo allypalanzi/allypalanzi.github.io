@@ -11,12 +11,14 @@ comments: false
 
 #### EXPERIENCE
 
-## Engineer, Nava PBC
+## Software Engineer, Nava PBC
 *April 2017 – Current*
   
-  - Tech lead on App 2 (the current HealthCare.Gov Application)
-  - Engineer on App 3 (the future HealthCare.Gov Application)
-  - Work closely with engineers to research, redefine, and build the next version of HealthCare.Gov
+  - Tech lead on the HealthCare.Gov marketplace application
+  - Lead a team of 3 engineers to prioritize and scope work
+  - Provide pairing, technical direction, and mentorship to teammates
+  - Handle complex relationships with stakeholders and other contract teams within the HealthCare.Gov ecosystem
+  - Work closely with engineers, designers, and product to research, redefine, and build the next version of HealthCare.Gov
   - Build scalable web applications that serve 30+ Million Americans
 
 <br>
@@ -39,10 +41,10 @@ comments: false
   - Post Vox.com launch, worked with a product manager, a designer, and a full-stack engineer to implement new features and bug fixes to support the site and editorial needs. Including [launching embeddable card stacks](http://www.vox.com/2015/5/28/8677005/embeddable-card-stacks-launch).
   - Worked with a product manager, a designer, and Editorial staff on developing interactive feature layouts for Polygon.
 
-## Visual Design Instructor, General Assembly
+<!-- ## Visual Design Instructor, General Assembly
 *April 2015 – May 2015*
 
-  - Worked with General Assembly coordinators and two other instructors to teach students an introduction to design. Including: design concepts, branding, layout, and responsive design.
+  - Worked with General Assembly coordinators and two other instructors to teach students an introduction to design. Including: design concepts, branding, layout, and responsive design. -->
 
 ## Front-End Designer, Vox Media
 *May 2012 – May 2014*
@@ -56,12 +58,12 @@ comments: false
 
 #### AWARDS
 
-## DCFemTech Powerful Woman Programmers
-*2015 & 2016 Recipient*
+## Trending Power Women in DC
+*2016 & 2017 Recipient*
 <p></p>
 
-## Trending Power Women in DC
-*2016 Recipient*
+## DCFemTech Powerful Woman Programmers
+*2015 & 2016 Recipient*
 <p></p>
 
 ## Comedy Hack Day DC Winner
@@ -71,7 +73,7 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 
 #### INVOLVEMENT
 
-## DCFemTech Leadership Committee
+## DCFemTech Leadership
 *2018 – Current*
 <p></p>
 
@@ -95,7 +97,7 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 
 **Proficient in:** JavaScript, React, Backbone, Sass/CSS, HTML, Git, UI & UX design, Adobe Suite, accessibility best practices, performance best practices
 
-**Knowledge of:** Ruby / Ruby on Rails, Node, Webpack, Python, AWS
+**Knowledge of:** Ruby / Ruby on Rails, SQL, Node, Webpack, Python, AWS
 <p></p>
 
 #### EDUCATION
