@@ -15,7 +15,6 @@ comments: false
 *April 2017 – Current*
   
   - Tech lead on the HealthCare.Gov marketplace application
-  - Lead a team of 3 engineers to prioritize and scope work
   - Provide pairing, technical direction, and mentorship to teammates
   - Handle complex relationships with stakeholders and other contract teams within the HealthCare.Gov ecosystem
   - Work closely with engineers, designers, and product to research, redefine, and build the next version of HealthCare.Gov
