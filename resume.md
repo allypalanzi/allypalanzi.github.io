@@ -20,8 +20,6 @@ comments: false
   - Work closely with engineers, designers, and product to research, redefine, and build the next version of HealthCare.Gov
   - Build scalable web applications that serve 30+ Million Americans
 
-<br>
-
 ## Senior Front-End Engineer, Vox Media
 *November 2015 – March 2017*
 
@@ -62,13 +60,8 @@ comments: false
 <p></p>
 
 ## DCFemTech Powerful Woman Programmers
-*2015 & 2016 Recipient*
+*2015, 2016, 2018 Recipient*
 <p></p>
-
-## Comedy Hack Day DC Winner
-*December 2015*
-
-Worked with a team to develop and prototype a satirical app called [IndieHobo](http://www.comedyhackday.org/dc-2015/).
 
 #### INVOLVEMENT
 
@@ -94,7 +87,7 @@ Worked with a team to develop and prototype a satirical app called [IndieHobo](h
 
 #### SKILLS
 
-**Proficient in:** JavaScript, React, Backbone, Sass/CSS, HTML, Git, UI & UX design, Adobe Suite, accessibility best practices, performance best practices
+**Proficient in:** JavaScript, React, Backbone, Sass/CSS, HTML, Git, accessibility best practices, front-end performance best practices
 
 **Knowledge of:** Ruby / Ruby on Rails, SQL, Node, Webpack, Python, AWS
 <p></p>
