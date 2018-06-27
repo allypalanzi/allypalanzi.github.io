@@ -1,8 +1,7 @@
 name: Ally Palanzi
 markdown: kramdown
-exclude: ["node_modules", "gulpfile.js", "package.json"]
-permalink: /:title.html
+exclude: ["node_modules", "gulpfile.js", "package.json", "project_template.psd"]
+permalink: none
 post_dirs: false
-
-description: 'a blog about code, design, & life'
-url: http://blog.allypalanzi.com
+description: "ally palanzi's portfolio"
+url: http://allypalanzi.com
