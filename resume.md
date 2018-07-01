@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hi! I'm <b>Ally Palanzi</b>.
-subtitle: I'm an engineer with a passion for design, accessibility, inclusion, and ice cream. Currently, improving how government serves people at <a href="http://navahq.com/">Nava</a>.
+subtitle: I'm a front-end engineer with a passion for design, accessibility, inclusion, and ice cream.
 page_type: 'resume'
 show_date: false
 comments: false
@@ -55,12 +55,12 @@ comments: false
 
 #### AWARDS
 
-## Trending Power Women in DC
-*2016 & 2017 Recipient*
-<p></p>
-
 ## DCFemTech Powerful Woman Programmers
 *2015, 2016, 2018 Recipient*
+<p></p>
+
+## Trending Power Women in DC
+*2016 & 2017 Recipient*
 <p></p>
 
 #### INVOLVEMENT
