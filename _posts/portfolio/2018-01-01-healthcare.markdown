@@ -13,6 +13,7 @@ categories: work
 #### Role
 Software Engineer, Tech lead
 
-#### The Project
+#### Tools & Technology
+React, Redux, Node, Sass, Webpack
 
-Words will be here soon, I promise.
+<!-- #### The Project -->

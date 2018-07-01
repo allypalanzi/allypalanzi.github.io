@@ -15,6 +15,9 @@ categories: work
 #### Role
 Senior Front-End Engineer
 
+#### Tools & Technology
+Backbone, Sass, Ruby on Rails, Webpack
+
 #### The Project
 After completing the work to create a unified platform for each brand, the team quickly realized we needed more flexibility within the design system to allow brands to feel truly distinct and customized. The best place for the brand identity to shine was of course the homepage. Throughout this project, we looked for places on the site where pieces could look similar and be branded with simply typography and colors, like the news stream, but added more flexibility to the main hero area, the first piece users would see when they arrive on the page. We built several custom templates and overrides for brands, but still made each new layout flexible enough for any brand to use in the future.
 

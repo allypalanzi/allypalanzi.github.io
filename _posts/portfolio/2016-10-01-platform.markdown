@@ -14,10 +14,7 @@ categories: work
 - Senior Front-end Developer
 
 #### Tools & Technology
-- Ruby on Rails
-- Webpack
-- Sass
-- Backbone
+Backbone, Sass, Ruby on Rails, Webpack
 
 #### The Project
 In early 2015, we embarked on a project to unify the 8 Vox Media brands and 300+ websites onto one core platform. We called this project **Unison**. Previously, our sites all shared core back-end functionality, but we had 8 completely separate front-end codebases. As we began adding brands to our platform, we realized this was absolutely not scalable.
