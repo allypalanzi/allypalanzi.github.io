@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Verge 3.0 / Vox Media Homepages"
-subtitle: "In 2014, we embarked on a huge project at Vox Media to unify all of our brand's websites (8 brands, 350+ sites) under the same design system and underlying platform. In 2016, under a tight deadline, we moved one of our largest brands, The Verge, complete with an overhaul of our platform's Homepage Product and The Verge's identity. We then used this work to influence our other properties homepages."
+subtitle: "In 2015, we embarked on a huge project at Vox Media to unify all of our brand's websites (8 brands, 350+ sites) under the same design system and underlying platform. In 2016, under a tight deadline, we moved one of our largest brands, The Verge, complete with an overhaul of our platform's Homepage Product and The Verge's identity. We then used this work to influence our other properties homepages."
 comments: false
 show_date: false
 project_link: 'http://theverge.com'
@@ -16,8 +16,7 @@ categories: work
 Senior Front-End Engineer
 
 #### The Project
-
-Words will be here soon, I promise.
+After completing the work to create a unified platform for each brand, the team quickly realized we needed more flexibility within the design system to allow brands to feel truly distinct and customized. The best place for the brand identity to shine was of course the homepage. Throughout this project, we looked for places on the site where pieces could look similar and be branded with simply typography and colors, like the news stream, but added more flexibility to the main hero area, the first piece users would see when they arrive on the page. We built several custom templates and overrides for brands, but still made each new layout flexible enough for any brand to use in the future.
 
 ![Homepage showing variation in masthead headers](/assets/images/work/verge_mastheads.gif)
 

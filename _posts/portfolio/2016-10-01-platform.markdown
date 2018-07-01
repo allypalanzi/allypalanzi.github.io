@@ -20,7 +20,7 @@ categories: work
 - Backbone
 
 #### The Project
-In early 2014, we embarked on a project to unify the 8 Vox Media brands and 300+ websites onto one core platform. We called this project **Unison**. Previously, our sites all shared core back-end functionality, but we had 8 completely separate front-end codebases. As we began adding brands to our platform, we realized this was absolutely not scalable.
+In early 2015, we embarked on a project to unify the 8 Vox Media brands and 300+ websites onto one core platform. We called this project **Unison**. Previously, our sites all shared core back-end functionality, but we had 8 completely separate front-end codebases. As we began adding brands to our platform, we realized this was absolutely not scalable.
 
 This was a chance to start fresh! After years of building off an existing platform, we were able to start over and rethink how we do front-end development at Vox Media. We stared small: building a baseline of what a Vox Media website would be, and built in functionality to "theme" our sites, so brands could easily have a different set of styles (colors, typography, etc).
 
