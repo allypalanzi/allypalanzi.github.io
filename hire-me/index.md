@@ -36,6 +36,6 @@ I have experience working with JavaScript, CSS, React, Redux, Node, Ruby/Rails, 
 
 If you think I'd be a good fit for your team, please email me at ampalanzi[at]gmail.com.
 
-For more details about my past work, please see my [resume](/resume.html).
+For more details about my past work, please see my [resume](/resume).
 
 </div>
