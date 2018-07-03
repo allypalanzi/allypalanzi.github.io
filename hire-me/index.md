@@ -11,7 +11,7 @@ comments: false
 ### What
 I'm looking for a front-end focused engineering role on a product team.
 
-You:
+Ideally you:
 
 - Have non-men and non-white folks in leadership roles
 - Care about building a diverse team
@@ -24,7 +24,7 @@ You:
 - Have product, design, and engineering teams that collaborate
 
 ### When
-I'm available starting August 2018.
+I'm available in August 2018.
 
 ### Where
 I'd love some flexibility on location, so I'm currently pursuing remote roles.
