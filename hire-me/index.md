@@ -8,6 +8,10 @@ comments: false
 
 <div markdown="1">
 
+## I'm no longer looking for a new role, thanks to everyone who reached out!
+
+<br>
+
 ### What
 I'm looking for a front-end focused engineering role on a product team.
 
