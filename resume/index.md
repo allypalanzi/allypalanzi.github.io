@@ -11,8 +11,12 @@ comments: false
 
 #### EXPERIENCE
 
+## Lead Front-End Engineer, Stitch Fix
+*August 2018 – Current*
+<ul></ul>
+
 ## Software Engineer, Nava PBC
-*April 2017 – Current*
+*April 2017 – July 2018*
   
   - Tech lead on the HealthCare.Gov marketplace application
   - Along with individual contribution, I provide pairing, technical direction, and mentorship to teammates
