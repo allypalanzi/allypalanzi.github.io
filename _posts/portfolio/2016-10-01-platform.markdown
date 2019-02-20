@@ -2,7 +2,6 @@
 layout: post
 title:  "Vox Media Platform"
 subtitle: "Vox Media houses 8 brands on one core platform. Previously, each site had their own custom front-end code base. We've spent the last year unifying, refactoring, and thinking of brands beyond the website."
-comments: false
 show_date: false
 categories: work
 ---

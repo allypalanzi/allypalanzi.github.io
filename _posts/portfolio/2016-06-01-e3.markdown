@@ -2,7 +2,6 @@
 layout: post
 title:  "Polygon E3 2014 Coverage"
 subtitle: "Custom website for Polygon to package all of the E3 2014 coverage."
-comments: false
 show_date: false
 categories: work
 project_link: 'http://www.polygon.com/a/e3-2014'

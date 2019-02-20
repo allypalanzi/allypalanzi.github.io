@@ -3,7 +3,6 @@ layout: post
 title: Hi! I'm <b>Ally Palanzi</b>.
 subtitle: I'm a front-end engineer with a passion for design, accessibility, inclusion, and ice cream. I'm looking for my next adventure! Let's work together.
 show_date: false
-comments: false
 ---
 
 <div markdown="1">

@@ -4,7 +4,6 @@ title: Hi! I'm <b>Ally Palanzi</b>.
 subtitle: I'm a front-end engineer with a passion for design, accessibility, inclusion, and ice cream.
 page_type: 'resume'
 show_date: false
-comments: false
 ---
 
 <div markdown="1">
