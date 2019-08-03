@@ -7,8 +7,7 @@ project_link: 'http://www.vox.com/2015/5/28/8677005/embeddable-card-stacks-launc
 categories: work
 ---
 
-<div class="vox-cardstack"><a href="https://www.vox.com/cards/global-warming">Global warming, explained</a></div>
-<script src="//embed.vox.com/cardstack.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyT99rJw9iM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### Role
