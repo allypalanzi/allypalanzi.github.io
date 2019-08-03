@@ -12,7 +12,10 @@ show_date: false
 
 ## Lead Front-End Engineer, Stitch Fix
 *August 2018 – Current*
-<ul></ul>
+
+  - Lead technical projects - writing specs, breaking down tasks, collaborating with business partners and stakeholders
+  - Build performant web experiences for new clients leveraging a custom built React static site generator
+  - Introduce front-end best practices for accessibility, performance, etc across teams
 
 ## Software Engineer, Nava PBC
 *April 2017 – July 2018*
@@ -41,11 +44,6 @@ show_date: false
   - Post Vox.com launch, worked with a product manager, a designer, and a full-stack engineer to implement new features and bug fixes to support the site and editorial needs. Including [launching embeddable card stacks](http://www.vox.com/2015/5/28/8677005/embeddable-card-stacks-launch).
   - Worked with a product manager, a designer, and Editorial staff on developing interactive feature layouts for Polygon
 
-<!-- ## Visual Design Instructor, General Assembly
-*April 2015 – May 2015*
-
-  - Worked with General Assembly coordinators and two other instructors to teach students an introduction to design. Including: design concepts, branding, layout, and responsive design. -->
-
 ## Front-End Designer, Vox Media
 *May 2012 – May 2014*
 
@@ -55,6 +53,13 @@ show_date: false
 
 </div>
 <div markdown="1">
+
+#### SKILLS
+
+**Proficient in:** JavaScript, React, Sass/CSS, HTML, Webpack, Git, front-end testing (Jest, Enzyme, etc), accessibility best practices, front-end performance best practices
+
+**Knowledge of:** Ruby / Ruby on Rails, SQL, Node, Python, AWS
+<p></p>
 
 #### AWARDS
 
@@ -86,13 +91,6 @@ show_date: false
 
 ## SassyDC Meetup Organizer
 *2014 – 2016*
-<p></p>
-
-#### SKILLS
-
-**Proficient in:** JavaScript, React, Backbone, Sass/CSS, HTML, Git, front-end testing, accessibility best practices, front-end performance best practices
-
-**Knowledge of:** Ruby / Ruby on Rails, SQL, Node, Webpack, Python, AWS
 <p></p>
 
 #### EDUCATION
